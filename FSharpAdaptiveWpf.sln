@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpAdaptiveWpf", "FSharpAdaptiveWpf\FSharpAdaptiveWpf.fsproj", "{72B729F6-C2C9-4B7F-9B5A-CB14A7D08F40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72B729F6-C2C9-4B7F-9B5A-CB14A7D08F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B729F6-C2C9-4B7F-9B5A-CB14A7D08F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B729F6-C2C9-4B7F-9B5A-CB14A7D08F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B729F6-C2C9-4B7F-9B5A-CB14A7D08F40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD11693F-F009-48F6-B529-DC9BDA0888A6}
+	EndGlobalSection
+EndGlobal
